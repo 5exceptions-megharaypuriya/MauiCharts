@@ -1,0 +1,89 @@
+<api
+  api-source="class-parse">
+  <package
+    name="com.example.charts"
+    jni-name="com/example/charts">
+    <class
+      abstract="false"
+      deprecated="not deprecated"
+      jni-extends="Ljava/lang/Object;"
+      extends="java.lang.Object"
+      extends-generic-aware="java.lang.Object"
+      final="false"
+      name="DotnetCharts"
+      jni-signature="Lcom/example/charts/DotnetCharts;"
+      source-file-name="DotnetCharts.java"
+      static="false"
+      visibility="public">
+      <constructor
+        deprecated="not deprecated"
+        final="false"
+        name="DotnetCharts"
+        static="false"
+        visibility="public"
+        bridge="false"
+        synthetic="false"
+        jni-signature="()V" />
+      <method
+        abstract="false"
+        deprecated="not deprecated"
+        final="false"
+        name="createPieChart"
+        native="false"
+        return="android.view.View"
+        jni-return="Landroid/view/View;"
+        static="true"
+        synchronized="false"
+        visibility="public"
+        bridge="false"
+        synthetic="false"
+        jni-signature="(Landroid/content/Context;Ljava/util/LinkedHashMap;Ljava/util/ArrayList;)Landroid/view/View;">
+        <parameter
+          name="context"
+          type="android.content.Context"
+          jni-type="Landroid/content/Context;" />
+        <parameter
+          name="data"
+          type="java.util.LinkedHashMap&lt;java.lang.String, java.lang.Integer&gt;"
+          jni-type="Ljava/util/LinkedHashMap&lt;Ljava/lang/String;Ljava/lang/Integer;&gt;;" />
+        <parameter
+          name="colors"
+          type="java.util.ArrayList&lt;java.lang.Integer&gt;"
+          jni-type="Ljava/util/ArrayList&lt;Ljava/lang/Integer;&gt;;" />
+      </method>
+      <method
+        abstract="false"
+        deprecated="not deprecated"
+        final="false"
+        name="getAPIKey"
+        native="false"
+        return="java.lang.String"
+        jni-return="Ljava/lang/String;"
+        static="true"
+        synchronized="false"
+        visibility="public"
+        bridge="false"
+        synthetic="false"
+        jni-signature="()Ljava/lang/String;" />
+      <method
+        abstract="false"
+        deprecated="not deprecated"
+        final="false"
+        name="getString"
+        native="false"
+        return="java.lang.String"
+        jni-return="Ljava/lang/String;"
+        static="false"
+        synchronized="false"
+        visibility="public"
+        bridge="false"
+        synthetic="false"
+        jni-signature="(Ljava/lang/String;)Ljava/lang/String;">
+        <parameter
+          name="myString"
+          type="java.lang.String"
+          jni-type="Ljava/lang/String;" />
+      </method>
+    </class>
+  </package>
+</api>

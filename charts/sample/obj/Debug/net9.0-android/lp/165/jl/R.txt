@@ -1,0 +1,1 @@
+int style NoAnimTransparent 0x0

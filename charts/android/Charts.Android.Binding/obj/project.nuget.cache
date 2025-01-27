@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "3NKOOqXIjNA=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\windows10\\RiderProjects\\MauiCharts\\charts\\android\\Charts.Android.Binding\\Charts.Android.Binding.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\windows10\\.nuget\\packages\\communitytoolkit.maui.nativelibraryinterop.buildtasks\\0.0.1-pre1\\communitytoolkit.maui.nativelibraryinterop.buildtasks.0.0.1-pre1.nupkg.sha512",
+    "C:\\Users\\windows10\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.11\\microsoft.net.illink.tasks.8.0.11.nupkg.sha512",
+    "C:\\Users\\windows10\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.11\\microsoft.netcore.app.ref.8.0.11.nupkg.sha512",
+    "C:\\Users\\windows10\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.11\\microsoft.windowsdesktop.app.ref.8.0.11.nupkg.sha512",
+    "C:\\Users\\windows10\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.11\\microsoft.aspnetcore.app.ref.8.0.11.nupkg.sha512",
+    "C:\\Users\\windows10\\.nuget\\packages\\microsoft.android.ref.34\\34.0.145\\microsoft.android.ref.34.34.0.145.nupkg.sha512"
+  ],
+  "logs": []
+}

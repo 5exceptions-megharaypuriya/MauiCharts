@@ -1,0 +1,5 @@
+com/example/charts/DotnetCharts = ChartsAndroid.DotnetCharts
+  <init>()V = .ctor()
+  getAPIKey()Ljava/lang/String; = APIKey
+  createPieChart(Landroid/content/Context;Ljava/util/LinkedHashMap;Ljava/util/ArrayList;)Landroid/view/View; = CreatePieChart(Android.Content.Context, Java.Util.LinkedHashMap, System.Collections.Generic.IList<Java.Lang.Integer>)
+  getString(Ljava/lang/String;)Ljava/lang/String; = GetString(string)

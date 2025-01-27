@@ -1,0 +1,2 @@
+C:\Users\windows10\RiderProjects\MauiCharts\charts\macios\Charts.MaciOS.Binding\obj\Debug\net8.0-maccatalyst\_ProcessedBundleResourcesPath.items
+C:\Users\windows10\RiderProjects\MauiCharts\charts\macios\Charts.MaciOS.Binding\obj\Debug\net8.0-maccatalyst\_ProcessedContentPath.items
